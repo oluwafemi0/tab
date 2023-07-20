@@ -349,11 +349,11 @@ const Sidebar = () => {
           <div class="flex p-2 justify-between items-center border-b border-gray-300 flex-wrap">
     <div class="flex items-center">
     <li class="flex  ">
-                    <a href="/" class="text-base font-bold ml-2  mt-0 text-[#262626] list-none hover:text-white"
+                    <a href="/" class="text-base font-bold ml-2  mt-0 text-[#262626] list-none "
                         target="">Add new post</a>
                 </li>
                 <li class="flex ml-4">
-                    <a href="#" class="text-base font-normal ml-2  mt-0 text-[#262626] list-none hover:text-white"
+                    <a href="#" class="text-base font-normal ml-2  mt-0 text-[#262626] list-none "
                         target="">Add Contents
                     </a>
                 </li>

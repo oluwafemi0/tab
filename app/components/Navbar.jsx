@@ -89,10 +89,10 @@ const Navbar = () => {
     <div class="relative flex items-center hidden md:inline-flex">
         
     </div>
-    <div class="flex items-center p-1 bg-white  rounded-lg gap-2">
+    <div class="flex items-center p-1 bg-white  rounded-full gap-2">
     <img class="block mx-auto  h-8 rounded-full sm:mx-0 sm:shrink-0" src="https://tailwindcss.com/img/erin-lindford.jpg" alt="" />
                         <div class="text-center space-y-2 ml-4  sm:text-left">
-                            <div class="space-y-0.5  ml-4 ">
+                            <div class="space-y-0.5  ml-2 ">
                                 <p class="text-sm  text-[#262626] font-semibold">
                                     Oluwafemi Emmanuel
                                 </p>
